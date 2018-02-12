@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç E25F-6278
+
+ Pasta de C:\Mauro\GIT_VOXAGE
+
+12/02/2018  16:49    <DIR>          .
+12/02/2018  16:49    <DIR>          ..
+12/02/2018  16:49                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   317.146.636.288 bytes dispon°veis
